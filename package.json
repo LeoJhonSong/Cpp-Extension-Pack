@@ -1,0 +1,20 @@
+{
+    "name": "ccpp-extension-pack",
+    "displayName": "C/C++ Extension Pack",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "LeoJhonSong",
+    "repository": "https://github.com/LeoJhonSong/Cpp-Extension-Pack",
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "ms-vscode.cpptools",
+        "llvm-vs-code-extensions.vscode-clangd",
+        "ajshort.include-autocomplete",
+        "hars.CppSnippets"
+    ]
+}
