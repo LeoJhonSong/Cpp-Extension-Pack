@@ -9,8 +9,14 @@
 ### Added
 
 - Add logo.
-- Add description of the extensions, for example shields.
 
-## [Version0.0.1] - 2019-02-27
+## [0.0.2] - 2019-03-09
+
+### Added
+
+- Add description of the extensions
+- Add tutorial for Configuration.
+
+## [0.0.1] - 2019-02-27
 
 First initial.
