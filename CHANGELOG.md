@@ -4,7 +4,9 @@
 
 ## [Unreleased]
 
-<!-- TODO -->
+None.
+
+## [0.1.2] - 2019-03-11
 
 ### Added
 

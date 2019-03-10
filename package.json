@@ -2,8 +2,9 @@
     "name": "ccpp-extension-pack",
     "displayName": "C/C++ Extension Pack",
     "description": "",
-    "version": "0.0.2",
+    "version": "0.1.2",
     "publisher": "LeoJhonSong",
+    "icon": "cpp-logo.png",
     "repository": "https://github.com/LeoJhonSong/Cpp-Extension-Pack",
     "engines": {
         "vscode": "^1.31.0"
