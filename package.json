@@ -1,8 +1,8 @@
 {
     "name": "ccpp-extension-pack",
     "displayName": "C/C++ Extension Pack",
-    "description": "",
-    "version": "0.1.2",
+    "description": "Collection of extensions related to C/C++",
+    "version": "0.1.3",
     "publisher": "LeoJhonSong",
     "icon": "cpp-logo.png",
     "repository": "https://github.com/LeoJhonSong/Cpp-Extension-Pack",

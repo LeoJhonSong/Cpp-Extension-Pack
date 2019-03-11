@@ -6,6 +6,12 @@
 
 None.
 
+## [0.1.3] - 2019-03-12
+
+### Added
+
+- Add description of this extension pack.
+
 ## [0.1.2] - 2019-03-11
 
 ### Added
