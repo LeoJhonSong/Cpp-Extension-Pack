@@ -2,9 +2,16 @@
 
 # Changelog
 
-## [Unreleased]
+## [0.2.1] - 2019-08-27
 
-None.
+### Added
+
+- Add awesome cmake support
+
+### Removed
+
+- Remove vscode-clangd as its message is very likely to be conflict with the
+  ones from ms-vscode,cpptools
 
 ## [0.1.3] - 2019-03-12
 
