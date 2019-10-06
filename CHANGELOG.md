@@ -2,6 +2,13 @@
 
 # Changelog
 
+
+## [0.3.0] - 2019-10-07
+
+### Changed
+
+- Updated configuration tutorials links
+
 ## [0.2.1] - 2019-08-27
 
 ### Added

@@ -6,16 +6,15 @@ glad if you are interested in this pack and just give a try! 👍
 ❗️❗️❗️ before installation I suggest you read lines with ⚠️ tags first, where some requirements are mentioned.
 
 🌟🌟🌟 Having trouble getting your VSCode ready for C/C++ developing?  
-       你正为在VSC中配置C/C++开发环境而头疼?  
+🌟🌟🌟 你正为在VSC中配置C/C++开发环境而头疼?  
 I would be glad if [my little
-tutorial](https://leojhonsong.github.io/Configure-C-C-environment-in-VSCode/)
-could help you. A [中文版
-本](https://leojhonsong.github.io/zh-CN/%E9%85%8D%E7%BD%AEVSCode%E4%B8%AD%E8%B0%83%E8%AF%95C-C-%E7%8E%AF%E5%A2%83/)
+tutorial](https://leojhonsong.github.io/2018/12/30/Configure-C-C-environment-in-VSCode/)
+could help you. A [中文版本](https://leojhonsong.github.io/zh-CN/2018/12/30/%E9%85%8D%E7%BD%AEVSCode%E4%B8%AD%E8%B0%83%E8%AF%95C-C-%E7%8E%AF%E5%A2%83/)
 is also provided 😆
 
-1. [My tricks](#my-tricks)
-2. [This pack includes](#this-pack-includes)
-3. [Contribute](#contribute)
+1. [My tricks](#My-tricks)
+2. [This pack includes](#This-pack-includes)
+3. [Contribute](#Contribute)
 
 ## My tricks
 
