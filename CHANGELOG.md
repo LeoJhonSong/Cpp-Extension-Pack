@@ -3,6 +3,12 @@
 # Changelog
 
 
+## [1.0.0] - 2020-07-19
+
+### Changed
+
+- Change **vector-of-bool.cmake-tools** to **ms-vscode.cmake-tools**, since according to description in ms-vscode.cmake-tools, "vector-of-bool has moved on to other things"
+
 ## [0.3.0] - 2019-10-07
 
 ### Changed
