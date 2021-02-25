@@ -3,6 +3,12 @@
 # Changelog
 
 
+## [1.1.0] - 2021-02-26
+
+### Added
+
+- Add clangd support from llvm **llvm-vs-code-extensions.vscode-clangd**, it provides better intelliSence.
+
 ## [1.0.0] - 2020-07-19
 
 ### Changed

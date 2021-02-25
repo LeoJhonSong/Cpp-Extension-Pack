@@ -2,7 +2,7 @@
     "name": "ccpp-extension-pack",
     "displayName": "C/C++ Extension Pack",
     "description": "Collection of extensions related to C/C++",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "publisher": "LeoJhonSong",
     "icon": "cpp-logo.png",
     "repository": "https://github.com/LeoJhonSong/Cpp-Extension-Pack",
@@ -14,6 +14,7 @@
     ],
     "extensionPack": [
         "ms-vscode.cpptools",
+        "llvm-vs-code-extensions.vscode-clangd",
         "ms-vscode.cmake-tools",
         "ajshort.include-autocomplete",
         "hars.CppSnippets"

@@ -12,9 +12,9 @@ tutorial](https://leojhonsong.github.io/2018/12/30/Configure-C-C-environment-in-
 could help you. A [中文版本](https://leojhonsong.github.io/zh-CN/2018/12/30/%E9%85%8D%E7%BD%AEVSCode%E4%B8%AD%E8%B0%83%E8%AF%95C-C-%E7%8E%AF%E5%A2%83/)
 is also provided 😆
 
-1. [My tricks](#My-tricks)
-2. [This pack includes](#This-pack-includes)
-3. [Contribute](#Contribute)
+1. [My tricks](#my-tricks)
+2. [This pack includes](#this-pack-includes)
+3. [Contribute](#contribute)
 
 ## My tricks
 
@@ -40,6 +40,7 @@ tricks:
 
 - [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
   Language support for C/C++ and IntelliSense and a lot.
+- [clangd](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-clangd) use as a better substitution of cpptools' intelliSence.
 - [CMake Tools](https://github.com/vector-of-bool/vscode-cmake-tools)
 - [Include Autocomplete](https://marketplace.visualstudio.com/items?itemName=ajshort.include-autocomplete)
   give suggestions for Include file.
