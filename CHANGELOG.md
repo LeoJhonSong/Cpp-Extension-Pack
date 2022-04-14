@@ -3,6 +3,17 @@
 # Changelog
 
 
+## [2.0.0] - 2022-04-14
+
+### Added
+
+- Add Doxygen Documentation Generator
+
+### Removed
+
+- Remove C/C++ Snippets, since there are much better code completion tools now
+- Remove clangd, since it could not bit cpptools down in most aspect
+
 ## [1.1.0] - 2021-02-26
 
 ### Added
