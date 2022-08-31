@@ -3,6 +3,12 @@
 # Changelog
 
 
+## [2.1.0] - 2022-08-31
+
+### Added
+
+- Add black clangd and Clang-Format since cpptools perform bad now
+
 ## [2.0.0] - 2022-04-14
 
 ### Added
